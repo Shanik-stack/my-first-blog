@@ -25,7 +25,7 @@ SECRET_KEY = '*pv0b0neqq)6ishcd%xd3hexdqpl9khe4jin$7^w35n*8#w%qf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.pyhtonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','shanik.pyhtonanywhere.com']
 
 
 # Application definition
